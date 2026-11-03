@@ -9,7 +9,7 @@ Działają na komputerze i na telefonie.
 |---|---|---|
 | **Krzyżówki** | Pojedynek na krzyżówki dla dwóch osób na dwóch urządzeniach | [zagraj](https://sebban-games.github.io/Crossword-online) |
 | **Koło Fortuny 2.0** | Gra w zgadywanie haseł na wzór teleturnieju, także w trybie online | wkrótce |
-| **Familiada** | Gra drużynowa na wzór teleturnieju, napisana w Pythonie | `UZUPEŁNIJ` |
+| **Familiada** | Gra drużynowa na wzór teleturnieju, napisana w Pythonie | wkrotce |
 
 ## Jak zagrać?
 
