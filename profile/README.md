@@ -9,7 +9,7 @@ Działają na komputerze i na telefonie.
 |---|---|---|
 | **Krzyżówki** | Pojedynek na krzyżówki dla dwóch osób na dwóch urządzeniach | [zagraj](https://sebban-games.github.io/Crossword-online) |
 | **Koło Fortuny 2.0** | Gra w zgadywanie haseł na wzór teleturnieju, także w trybie online | [zagraj](https://sebban-games.github.io/kolo-fortuny/) |
-| **Neon Overdrive** | Zręcznościowa gra | [zagraj](https://github.com/sebban-games/neon-overdrive.git) |
+| **Neon Overdrive** | Zręcznościowa gra | [zagraj](https://sebban-games.github.io/neon-overdrive/) |
 | **Familiada** | Gra drużynowa na wzór teleturnieju, napisana w Pythonie | wkrotce |
 
 ## Jak zagrać?
