@@ -9,7 +9,7 @@ Działają na komputerze i na telefonie.
 |---|---|---|
 | **Krzyżówki** | Pojedynek na krzyżówki dla dwóch osób na dwóch urządzeniach | [zagraj](https://sebban-games.github.io/Crossword-online) |
 | **Koło Fortuny 2.0** | Gra w zgadywanie haseł na wzór teleturnieju, także w trybie online | [zagraj](https://sebban-games.github.io/kolo-fortuny/) |
-| **Inhumachine** | Zręcznościowa gra | [zagraj](https://sebban-games.github.io/inhumachine/) |
+| **Inhumachine** | Zręcznościowa gra typu boss rush | [zagraj](https://sebban-games.github.io/inhumachine/) |
 | **Familiada** | Gra drużynowa na wzór teleturnieju, napisana w Pythonie | wkrotce |
 
 ## Jak zagrać?
